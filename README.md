@@ -95,7 +95,7 @@ Using a MongoDB client, connect to the databse hosted at:
 mongodb://localhost:27017 
 ```
 
-Use the .json files in the `mongoData` folder of this repository to import the data in the appropriate collections.
+Use the .json files in the `mongoData` folder of this repository to import the data in the corresponding collections.
 
 ## 3) Run the MAS REST Runtime
 Open a new shell and enter the `mas-rest-runtime` folder.
@@ -129,6 +129,8 @@ There you can load the code saved on the DB and have a taste of the visual block
 You can also try out the block language to assemble other agents.
 
 A _runtime configuration_ is already available to run the tractors example. Simply click on **Run** and select the runtime configuration you want to execute from the dropdown. This will start the multi-agent system on the MAS REST Runtime.
+
+You can follow the MAS logs on the MAS REST Runtime shell.
 
 To stop the MAS click to **Inspect Runtime** and click on the stop button.
 
