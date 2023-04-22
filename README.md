@@ -130,6 +130,8 @@ You can also try out the block language to assemble other agents.
 
 A _runtime configuration_ is already available to run the tractors example. Simply click on **Run** and select the runtime configuration you want to execute from the dropdown. This will start the multi-agent system on the MAS REST Runtime.
 
+You can follow the MAS logs on the MAS REST Runtime shell.
+
 To stop the MAS click to **Inspect Runtime** and click on the stop button.
 
 
