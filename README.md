@@ -95,7 +95,7 @@ Using a MongoDB client, connect to the databse hosted at:
 mongodb://localhost:27017 
 ```
 
-Use the .json files in the `mongoData` folder of this repository to import the data in the appropriate collections.
+Use the .json files in the `mongoData` folder of this repository to import the data in the corresponding collections.
 
 ## 3) Run the MAS REST Runtime
 Open a new shell and enter the `mas-rest-runtime` folder.
