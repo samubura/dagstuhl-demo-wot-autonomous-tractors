@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "64440bd436213d0a2a4f75f3"
+  },
+  "id": "tractors",
+  "agents": [
+    {
+      "name": "irrigator",
+      "type": "irrigator"
+    },
+    {
+      "name": "soilchecker",
+      "type": "soilchecker"
+    }
+  ],
+  "__v": 0
+}]
