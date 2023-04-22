@@ -1,0 +1,9 @@
+[submodule "wot-web-simulator"]
+	path = wot-web-simulator
+	url = https://github.com/samubura/wot-web-simulator.git
+[submodule "intelliot-hypermas-explorer"]
+	path = intelliot-hypermas-explorer
+	url = https://github.com/Interactions-HSG/intelliot-hypermas-explorer.git
+[submodule "mas-rest-runtime"]
+	path = mas-rest-runtime
+	url = https://github.com/samubura/mas-rest-runtime.git
