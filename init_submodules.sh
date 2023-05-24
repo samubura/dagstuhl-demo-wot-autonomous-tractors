@@ -16,6 +16,6 @@ git checkout fb38487
 
 cd ../intelliot-hypermas-explorer
 
-git checkout 3455be7
+git checkout c236af8
 
 cd ..
