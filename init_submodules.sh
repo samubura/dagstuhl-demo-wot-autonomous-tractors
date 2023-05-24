@@ -1,7 +1,7 @@
 #!/bin/bash
 
 git submodule init
-git submodule update
+git submodule update --remote
 
 cd ./wot-web-simulator
 
@@ -16,6 +16,6 @@ git checkout fb38487
 
 cd ../intelliot-hypermas-explorer
 
-git checkout b1d6fd5
+git checkout 3455be7
 
 cd ..
